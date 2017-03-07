@@ -1,0 +1,21 @@
+<!-- devo dichiarare cosi' resources per xliff tag altrimenti nisba -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Coffee Order</string>
+    <!-- [CHAR LIMIT = 20] -->
+    <string name="ringraziamenti">Thanks</string>
+    <string name="quantita">Quantity</string>
+    <string name="aggiunta">Toppings</string>
+    <string name="nome">Name</string>
+    <string name="cioccolata">Chocolate</string>
+    <string name="crema">Whipped cream</string>
+    <string name="prezzo">Price</string>
+    <string name="ordina">ORDER !</string>
+    <string name="msgAggiungiCrema">Add whipped cream? </string>
+    <string name="msgAggiungiCioccolata">Add Chocolate? </string>
+    <string name="totale">Total: $</string>
+    <string name="ordinante">Orderer Name: <xliff:g id="name" example="Mimmo">%s</xliff:g></string>
+
+    <!-- [CHAR LIMIT = NONE] -->
+    <string name="eMailSubjectTitle">Coffee Order</string>
+</resources>

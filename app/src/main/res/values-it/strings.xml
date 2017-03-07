@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="aggiunta">Aggiunta</string>
+    <string name="cioccolata">Cioccolata</string>
+    <string name="crema">Crema</string>
+    <string name="eMailSubjectTitle">Riepilogo Ordine</string>
+    <string name="msgAggiungiCioccolata">Cioccolata ?</string>
+    <string name="msgAggiungiCrema">Crema ?</string>
+    <string name="nome">Nome</string>
+    <string name="ordina">ORDINA</string>
+    <string name="ordinante">Ordinante :</string>
+    <string name="prezzo">Prezzo</string>
+    <string name="quantita">Quantità</string>
+    <string name="ringraziamenti">Grazie!</string>
+    <string name="totale">Totale: €</string>
+</resources>
